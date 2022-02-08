@@ -156,4 +156,4 @@ The following secrets need to be created:
 
 ### Commit
 
-Commit the changes, and this will trigger the CI Build Pipeline. 
+Commit the changes, and this will trigger the CI Build Pipeline.
